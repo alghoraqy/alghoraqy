@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Alghoraqy</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 📄 My Resume https://drive.google.com/file/d/1paq3H6OAckO0l3KCnxc0XNj-23ljtUH7/view?usp=drive_link
+- 📄 My Resume: https://drive.google.com/file/d/1paq3H6OAckO0l3KCnxc0XNj-23ljtUH7/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
