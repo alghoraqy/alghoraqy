@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Alghoraqy</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 📄 My Resume: [Mahmoud Elsayed CV](https://drive.google.com/file/d/1oA_FkcFjkZixxiM2gyqa5lKc-ZQTuDDo/view?usp=sharing)
+- 📄CV: [Mahmoud Elsayed CV](https://drive.google.com/file/d/1oA_FkcFjkZixxiM2gyqa5lKc-ZQTuDDo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
