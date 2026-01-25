@@ -1,5 +1,4 @@
 ^XA
-^LS-20
 ^CI28
 ^CWZ,E:ARIALR.FNT
 ^FO40,10^A0N,16,16^FDCorLab-Adt 22-1(19:10)  -test^FS
@@ -14,7 +13,6 @@
 ^PQ1
 ^XZ
 ^XA
-^LS-20
 ^CI28
 ^CWZ,E:ARIALR.FNT
 ^FO40,10^A0N,16,16^FDCorLab-Adt 22-1(19:10)  -test^FS
@@ -28,3 +26,4 @@
 ^FO40,165^A0N,15,15^TBN,300,18.5^FDBlood Urea Nitrogen (BUN)	tests,^FS
 ^PQ1
 ^XZ
+
