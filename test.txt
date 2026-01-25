@@ -1,0 +1,3 @@
+^XA
+^FO10,10^FDTEST^FS
+^XZ
