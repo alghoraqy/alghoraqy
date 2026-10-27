@@ -12,6 +12,5 @@
 ^FO370,85^A@R,20,20,E:ARABIC.TTF^FDCalcium/Creatinine Ratio^FS
 
 
-
 ^PQ1
 ^XZ
