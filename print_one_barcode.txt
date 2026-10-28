@@ -12,6 +12,7 @@
 ^FO30,190^AAN,15^FDSarah 2021 ^FS
 ^FO370,85^AAN,20^FWR^FDComplete Blood Count - (CBC)^FS
 ^PQ1
+
 ^XZ
 
 
